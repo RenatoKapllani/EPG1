@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TeleSport">
+    <display-name lang="sq">TeleSport</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="MFM">
+    <display-name lang="sq">MFM</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="TV Tetova">
+    <display-name lang="sq">TV Tetova</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Elrodi TV">
+    <display-name lang="sq">Elrodi TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="7 News">
+    <display-name lang="sq">7 News</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="RTSH Sport">
+    <display-name lang="sq">RTSH Sport</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="RTSH2 HD">
+    <display-name lang="sq">RTSH2 HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Ora News">
+    <display-name lang="sq">Ora News</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Top Channel">
+    <display-name lang="sq">Top Channel</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Top Channel HD">
+    <display-name lang="sq">Top Channel HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="UTV News">
+    <display-name lang="sq">UTV News</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Rrokum TV">
+    <display-name lang="sq">Rrokum TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Neser TV">
+    <display-name lang="sq">Neser TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="ALBUK TV">
+    <display-name lang="sq">ALBUK TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Alsat-M">
+    <display-name lang="sq">Alsat-M</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Report TV">
+    <display-name lang="sq">Report TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="INTV">
+    <display-name lang="sq">INTV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="RTM2">
+    <display-name lang="sq">RTM2</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Klan Macedonia">
+    <display-name lang="sq">Klan Macedonia</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Arena Sport 1">
+    <display-name lang="sq">Arena Sport 1</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Arena Sport 2">
+    <display-name lang="sq">Arena Sport 2</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Arena Sport 3">
+    <display-name lang="sq">Arena Sport 3</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Arena Sport 4">
+    <display-name lang="sq">Arena Sport 4</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Balkanika">
+    <display-name lang="sq">Balkanika</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Shenja TV">
+    <display-name lang="sq">Shenja TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="RTV 21 MK">
+    <display-name lang="sq">RTV 21 MK</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Koha TV">
+    <display-name lang="sq">Koha TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Vizion Plus">
+    <display-name lang="sq">Vizion Plus</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Vizion Plus HD">
+    <display-name lang="sq">Vizion Plus HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Jolly HD">
+    <display-name lang="sq">Jolly HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Living HD">
+    <display-name lang="sq">Living HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring International">
+    <display-name lang="sq">Tring International</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Smile">
+    <display-name lang="sq">Smile</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Muse">
+    <display-name lang="sq">Muse</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="3 Plus">
+    <display-name lang="sq">3 Plus</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="KanalD Drama">
+    <display-name lang="sq">KanalD Drama</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Shqip">
+    <display-name lang="sq">Tring Shqip</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Tring">
+    <display-name lang="sq">Tring Tring</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Kids">
+    <display-name lang="sq">Tring Kids</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tip TV">
+    <display-name lang="sq">Tip TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Super">
+    <display-name lang="sq">Tring Super</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Action">
+    <display-name lang="sq">Tring Action</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Life">
+    <display-name lang="sq">Tring Life</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Comedy">
+    <display-name lang="sq">Tring Comedy</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Fantasy">
+    <display-name lang="sq">Tring Fantasy</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="sq">FOX Life</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="FOX Crime">
+    <display-name lang="sq">FOX Crime</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="sq">FOX</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring History">
+    <display-name lang="sq">Tring History</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring World">
+    <display-name lang="sq">Tring World</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Planet">
+    <display-name lang="sq">Tring Planet</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="sq">National Geographic</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="sq">Nat Geo HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Click TV">
+    <display-name lang="sq">Click TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Klan TV">
+    <display-name lang="sq">Klan TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Klan TV HD">
+    <display-name lang="sq">Klan TV HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Klan Plus">
+    <display-name lang="sq">Klan Plus</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Fax News">
+    <display-name lang="sq">Fax News</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Sport News HD">
+    <display-name lang="sq">Tring Sport News HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Sport 1 HD">
+    <display-name lang="sq">Tring Sport 1 HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Sport 2 HD">
+    <display-name lang="sq">Tring Sport 2 HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Sport 3 HD">
+    <display-name lang="sq">Tring Sport 3 HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tring Sport 4 HD">
+    <display-name lang="sq">Tring Sport 4 HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="My Music">
+    <display-name lang="sq">My Music</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="ABC News">
+    <display-name lang="sq">ABC News</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="sq">Animal Planet</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="ID Xtra HD">
+    <display-name lang="sq">ID Xtra HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="24 Kitchen">
+    <display-name lang="sq">24 Kitchen</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Fine Living">
+    <display-name lang="sq">Fine Living</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="sq">Discovery Channel</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="sq">MTV Live HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSonic TV">
+    <display-name lang="sq">SuperSonic TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="STV Folk">
+    <display-name lang="sq">STV Folk</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Top News">
+    <display-name lang="sq">Top News</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="sq">Baby TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="RTV 21">
+    <display-name lang="sq">RTV 21</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="21 Popullore">
+    <display-name lang="sq">21 Popullore</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="21 Junior">
+    <display-name lang="sq">21 Junior</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="KTV">
+    <display-name lang="sq">KTV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Arta HD">
+    <display-name lang="sq">Arta HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Tribuna Channel">
+    <display-name lang="sq">Tribuna Channel</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="first CHANNEL">
+    <display-name lang="sq">first CHANNEL</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Bang Bang">
+    <display-name lang="sq">Bang Bang</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Cufo TV">
+    <display-name lang="sq">Cufo TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Junior">
+    <display-name lang="sq">Junior</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="sq">Boomerang</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Film Nje HD">
+    <display-name lang="sq">Film Nje HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Film Dy HD">
+    <display-name lang="sq">Film Dy HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Film Komedi">
+    <display-name lang="sq">Film Komedi</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Film Hits+1">
+    <display-name lang="sq">Film Hits+1</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Film Hits">
+    <display-name lang="sq">Film Hits</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Film Thriller">
+    <display-name lang="sq">Film Thriller</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Film Drame">
+    <display-name lang="sq">Film Drame</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Film Aksion">
+    <display-name lang="sq">Film Aksion</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Stinet">
+    <display-name lang="sq">Stinet</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="EXPLORER Shkence">
+    <display-name lang="sq">EXPLORER Shkence</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="EXPLORER Histori">
+    <display-name lang="sq">EXPLORER Histori</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="EXPLORER Natyra">
+    <display-name lang="sq">EXPLORER Natyra</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="sq">Fashion TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="News 24">
+    <display-name lang="sq">News 24</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="On-TV">
+    <display-name lang="sq">On-TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="EuroSport">
+    <display-name lang="sq">EuroSport</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Peace TV">
+    <display-name lang="sq">Peace TV</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="RTSH1 HD">
+    <display-name lang="sq">RTSH1 HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="RTSH 1">
+    <display-name lang="sq">RTSH 1</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="RTV 21 HD">
+    <display-name lang="sq">RTV 21 HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Klan Kosova">
+    <display-name lang="sq">Klan Kosova</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="RTK 1">
+    <display-name lang="sq">RTK 1</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="T HD">
+    <display-name lang="sq">T HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="Family HD">
+    <display-name lang="sq">Family HD</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="T 7">
+    <display-name lang="sq">T 7</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 1">
+    <display-name lang="sq">SuperSport 1</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 2">
+    <display-name lang="sq">SuperSport 2</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 3">
+    <display-name lang="sq">SuperSport 3</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 4">
+    <display-name lang="sq">SuperSport 4</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 5">
+    <display-name lang="sq">SuperSport 5</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 6">
+    <display-name lang="sq">SuperSport 6</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SS Kosova 1">
+    <display-name lang="sq">SS Kosova 1</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SS Kosova 2">
+    <display-name lang="sq">SS Kosova 2</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SS Kosova 3">
+    <display-name lang="sq">SS Kosova 3</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+</tv>
